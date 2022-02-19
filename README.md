@@ -5,6 +5,8 @@ simple python script using tweepy to download all images from a tweet (or list o
 [tweepy](https://docs.tweepy.org/en/stable/install.html)
 which can be installed by running `pip install tweepy`
 
+twitter v1.1 api key, which can be gotten from [twitter's developer portal](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api). duplicate the file `sample.env` and name it `.env`, inserting the required variables
+
 ## usage
 
 in the folder:
